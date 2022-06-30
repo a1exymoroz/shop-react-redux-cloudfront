@@ -46,9 +46,9 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## AWS
 
-[Cloudfront](https://dsqjnjmg5ea1d.cloudfront.net/)
+[Cloudfront](https://d20q4g0iurof59.cloudfront.net/)
 
-[S3 index.html](https://aws-2022-a1exy-react-shop.s3.eu-west-1.amazonaws.com/index.html)
+[S3 index.html](https://react-aws-web-a1exy-2022.s3.eu-west-1.amazonaws.com/index.html)
 
-[S3 static site](http://aws-2022-a1exy-react-shop.s3-website-eu-west-1.amazonaws.com/)
+[S3 static site](http://react-aws-web-a1exy-2022.s3-website-eu-west-1.amazonaws.com)
 
